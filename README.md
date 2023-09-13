@@ -41,4 +41,4 @@ Building a model is the main component in machine learning. The model used is a 
 <h3>Finding Accuracy,Precision,Recall,F1-Score,Balanced Accuracy</h3>
 The calucation is done by using the sklearn.metrics packages. Where all the methods are available to calculate the above tasks. By considering the test case and the prediction given by the Ml model the calculations is done by passing parameters to the methods available in the package
 <h1>Conclusion</h1>
-<p> The overall project is done by inferring the youtube and some formulaes from the google. After gaining the perfect knowledge on correct modification of dataset I started modifying the dataset and accomplished all the tasks mentioned. </p>
+<p> The overall project is done by inferring the online sources and some formulaes from the google. After gaining the deeper insights on the dataset I have performed EDA and applied ML algorithms and accomplished the requirements mentionned as per the tash </p>
